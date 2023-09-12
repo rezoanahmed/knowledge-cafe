@@ -1,15 +1,17 @@
 
 import Blogs from './components/Blogs/Blogs'
 import Nav from './components/Nav/Nav'
+import Bookmarks from './components/Bookmarks/Bookmarks'
 function App() {
 
 
   return (
     <>
       <Nav></Nav>
-      <div>
+      <main className='md:flex'>
         <Blogs></Blogs>
-      </div>
+        <Bookmarks></Bookmarks>
+      </main>
     </>
   )
 }
