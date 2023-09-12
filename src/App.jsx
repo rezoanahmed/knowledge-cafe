@@ -1,11 +1,11 @@
 
-
+import Nav from './components/Nav/Nav'
 function App() {
 
 
   return (
     <>
-      <h1 className="text-5xl">Knowledge Cafe</h1>
+      <Nav></Nav>
     </>
   )
 }

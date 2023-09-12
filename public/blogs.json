@@ -1,0 +1,48 @@
+[
+    {
+      "blog_title": "The Secrets of a Digital Nomad Lifestyle",
+      "blog_cover": "https://i.ibb.co/jRfrTdH/mohamed-nohassi-odx-B5o-IG-i-A-unsplash.jpg",
+      "author_name": "Jessica Green",
+      "author_img": "https://i.ibb.co/fkK0vWJ/sarah-brown-t-Td-C88-6a-I-unsplash.jpg",
+      "posted_date": "20 August, 2023 (23 days ago)",
+      "reading_time": 7,
+      "hashtags": ["#DigitalNomad", "#TravelBlogging", "#WorkFromAnywhere"]
+    },
+    {
+      "blog_title": "Urban Gardening: The New Frontier for City Dwellers",
+      "blog_cover": "https://i.ibb.co/njvWTSz/pedro-lastra-Nyvq2juw4-o-unsplash.jpg",
+      "author_name": "Samuel Browne",
+      "author_img": "https://i.ibb.co/VS1cJkm/christian-buehner-DIt-Ylc26z-VI-unsplash.jpg",
+      "posted_date": "15 July, 2023 (59 days ago)",
+      "reading_time": 5,
+      "hashtags": ["#UrbanGardening", "#EcoFriendly", "#CityLife"]
+    },
+    {
+      "blog_title": "Mastering the Art of Homemade Pasta",
+      "blog_cover": "https://i.ibb.co/ZXPRJpP/bozhin-karaivanov-m5-Ft3bsalh-Q-unsplash.jpg",
+      "author_name": "Maria Rossi",
+      "author_img": "https://i.ibb.co/vhBy5vV/sigmund-jzz-3j-WMz-HA-unsplash.jpg",
+      "posted_date": "10 June, 2023 (94 days ago)",
+      "reading_time": 8,
+      "hashtags": ["#PastaLover", "#CookingTips", "#ItalianCuisine"]
+    },
+    {
+      "blog_title": "Tech Trends: What to Expect in 2024",
+      "blog_cover": "https://i.ibb.co/LndTr2B/ales-nesetril-Im7l-Zjxe-Lhg-unsplash-1.jpg",
+      "author_name": "Benjamin Kim",
+      "author_img": "https://i.ibb.co/8MYMmGm/alex-suprun-ZHv-M3-XIOHo-E-unsplash.jpg",
+      "posted_date": "2 September, 2023 (10 days ago)",
+      "reading_time": 10,
+      "hashtags": ["#TechTrends", "#Innovation", "#FutureTech"]
+    },
+    {
+      "blog_title": "Journey Through the World's Most Beautiful Forests",
+      "blog_cover": "https://i.ibb.co/LgtJm7y/sergei-a-he-LWtu-AN3c-unsplash.jpg",
+      "author_name": "Lily Adams",
+      "author_img": "https://i.ibb.co/vPVdhjv/minh-pham-5y-ENNRbbat4-unsplash.jpg",
+      "posted_date": "17 May, 2023 (118 days ago)",
+      "reading_time": 6,
+      "hashtags": ["#NatureLover", "#Forests", "#TravelJourney"]
+    }
+  ]
+  
